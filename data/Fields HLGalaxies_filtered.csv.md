@@ -1,4 +1,9 @@
 ## Fields in datafile HLGalaxies_filtered.csv
+### File source
+
+
+### Field description
+The columns in the HLGalaxies_filtered.csv file include all those in the HLG2.csv with additional calculated data. The summary fields with descriptions are as follows:
 
 | Field              | Units           | Description                                               | Source |
 |--------------------|-----------------|-----------------------------------------------------------|--------|
