@@ -1,9 +1,9 @@
-# HL data extract
-## File source
+## Fields in HLGalaxies_filtered_wReBmag.csv
+### File source
 
 
-## Field description
-The fields in the HL Data Extract are as follows:
+### Field description
+The columns in the HLGalaxies_filtered_wReBmag.csv file include all those in the HLGalaxies_filtered.csv with augmented SDSS data. The total fields with descriptions are as follows:
 
 | Field              | Units           | Description                                               | Source |
 |--------------------|-----------------|-----------------------------------------------------------|--------|
