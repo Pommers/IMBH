@@ -1,5 +1,5 @@
 ## readme
-Data files are contained within this subfolder.
+Data files are contained within this subfolder. Each datafile, as described below also has an associated markdown file detailing the columns and their meaning.
 
 | Filename                              | Type | Purpose | Description                                                                                       |
 |---------------------------------------|------|---------|---------------------------------------------------------------------------------------------------|
