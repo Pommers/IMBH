@@ -1,6 +1,6 @@
 ## Fields in datafile HLGalaxies_filtered.csv
 ### File source
-
+The HLGalaxies_filtered.csv file is created at the end of the Hyperleda_load.ipynb Jupyter notebook. It in cludes data extracted from the Hyperleda database based in the filtering criteria discussed in the text. Additional calculated fields are included to predominantly determine the total, visible and percentage count of the GCs hosted around the galaxies through the GCLF. 
 
 ### Field description
 The columns in the HLGalaxies_filtered.csv file include all those in the HLG2.csv with additional calculated data. The summary fields with descriptions are as follows:
