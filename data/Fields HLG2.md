@@ -1,4 +1,9 @@
 ## Fields in datafile HLG2.csv
+### File source
+The `HLG2.csv` file is created at the start of the `Hyperleda_load.ipynb` Jupyter notebook. It includes the initial data extracted from the **Hyperleda database** based in the filtering criteria discussed in the text. Some fields are calculated at the time of the data extract in the SQL.
+
+### Field description
+The columns in the `HLG2.csv` with descriptions are as follows:
       
 | Field              | Units           | Description                                               | Source |
 |--------------------|-----------------|-----------------------------------------------------------|--------|
