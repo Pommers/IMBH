@@ -11,6 +11,6 @@ Data files are contained within this subfolder. Each datafile, as described belo
 | HLG2.csv                              | CSV  | Data    | Raw extract from Hyperleda database based on filter criteria discussed.                           |
 | HLGalaxies_filtered.csv               | CSV  | Data    | Augmented galaxy data, with estimated counts of hosted GCs.                                       |
 | HLGalaxies_filtered_wReBmag.csv       | CSV  | Data    | Augmented galaxy and GC data, with estimated sizes (effective radius) of host galaxies.           |
-| target_alertdata_filt.csv             | CSV  | Data    | List of (filtered) ZTF alerts within 10 Re of host galaxy coordinates (13834 alerts)              |
-| galalertobj_detail.csv                | CSV  | Data    | Detailed list of ZTF objects associated with host galaxy alerts, with catalogue cross-correlation (254) |
+| target_alertdata_filt.csv             | CSV  | Data    | List of (filtered) ZTF alerts within 10 Re of host galaxy coordinates (65053 unique alerts) - file split into 2 parts due to size restrictions  |
+| galalertobj_detail.csv                | CSV  | Data    | Detailed list of ZTF objects associated with host galaxy alerts, with catalogue cross-correlation (6913) |
 | readme.md                             | MD   | Info    | This file                                                                                         |
